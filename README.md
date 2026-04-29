@@ -1,4 +1,4 @@
-# Multi-Agent AI System (Ollama आधारित)
+# Multi-Agent AI System (Ollama)
 
 ## Overview
 This project implements a multi-agent AI system:
